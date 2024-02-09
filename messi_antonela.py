@@ -21,7 +21,7 @@ player_image = pygame.transform.scale(player_image, (60, 60))
 bullet_image = pygame.image.load("imgs/corazón.png")
 bullet_image = pygame.transform.scale(bullet_image, (50, 50))   
 
-enemy_image = pygame.image.load("imgs/antonella.png")
+enemy_image = pygame.image.load("imgs/antonela.png")
 enemy_image = pygame.transform.scale(enemy_image, (60, 60))
 
 background_image = pygame.image.load("imgs/fondo_amor.jpg")
